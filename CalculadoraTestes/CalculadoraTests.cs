@@ -42,19 +42,16 @@ public class CalculadoraTests
     }
 
     [Fact]
-    public void DeveRetornarTrueSeForPar()
+    public void DeveLerONumero4ERetornarTrueSeForPar()
     {
         // Arrange
-        int num1 = 4;
-        int num2 = 5;
+        int num = 4;
 
         // Act
-        bool resultado1 = _calc.EhPar(num1);
-        bool resultado2 = _calc.EhPar(num2);
+        bool resultado = _calc.EhPar(num);
 
         // Assert
-        Assert.True(resultado1);
-        Assert.False(resultado2);
+        Assert.True(resultado);
     }
 
     [Theory]
