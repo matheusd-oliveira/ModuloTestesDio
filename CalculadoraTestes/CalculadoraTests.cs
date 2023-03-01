@@ -53,8 +53,8 @@ public class CalculadoraTests
         bool resultado2 = _calc.EhPar(num2);
 
         // Assert
-        Assert.Equal(true, resultado1);
-        Assert.Equal(false, resultado2);
+        Assert.True(resultado1);
+        Assert.False(resultado2);
     }
 
 }

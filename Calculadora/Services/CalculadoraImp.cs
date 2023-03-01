@@ -8,9 +8,9 @@ public class CalculadoraImp
         return num1 + num2;
     }
 
-    public bool EhPar(int num1)
+    public bool EhPar(int num)
     {   
-        return num1 % 2 == 0 ? true : false;
+        return num % 2 == 0 ? true : false;
 
     }
 
