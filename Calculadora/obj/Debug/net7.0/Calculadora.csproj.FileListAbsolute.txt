@@ -1,0 +1,15 @@
+D:\Projetos\ModuloTestesDio\Calculadora\bin\Debug\net7.0\Calculadora.exe
+D:\Projetos\ModuloTestesDio\Calculadora\bin\Debug\net7.0\Calculadora.deps.json
+D:\Projetos\ModuloTestesDio\Calculadora\bin\Debug\net7.0\Calculadora.runtimeconfig.json
+D:\Projetos\ModuloTestesDio\Calculadora\bin\Debug\net7.0\Calculadora.dll
+D:\Projetos\ModuloTestesDio\Calculadora\bin\Debug\net7.0\Calculadora.pdb
+D:\Projetos\ModuloTestesDio\Calculadora\obj\Debug\net7.0\Calculadora.csproj.AssemblyReference.cache
+D:\Projetos\ModuloTestesDio\Calculadora\obj\Debug\net7.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\ModuloTestesDio\Calculadora\obj\Debug\net7.0\Calculadora.AssemblyInfoInputs.cache
+D:\Projetos\ModuloTestesDio\Calculadora\obj\Debug\net7.0\Calculadora.AssemblyInfo.cs
+D:\Projetos\ModuloTestesDio\Calculadora\obj\Debug\net7.0\Calculadora.csproj.CoreCompileInputs.cache
+D:\Projetos\ModuloTestesDio\Calculadora\obj\Debug\net7.0\Calculadora.dll
+D:\Projetos\ModuloTestesDio\Calculadora\obj\Debug\net7.0\refint\Calculadora.dll
+D:\Projetos\ModuloTestesDio\Calculadora\obj\Debug\net7.0\Calculadora.pdb
+D:\Projetos\ModuloTestesDio\Calculadora\obj\Debug\net7.0\Calculadora.genruntimeconfig.cache
+D:\Projetos\ModuloTestesDio\Calculadora\obj\Debug\net7.0\ref\Calculadora.dll

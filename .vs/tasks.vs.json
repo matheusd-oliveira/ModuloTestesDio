@@ -1,0 +1,20 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "tarefa-ModuloTestesDio",
+      "appliesTo": "/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "tarefa-ModuloTestesDio",
+      "appliesTo": "ModuloTestesDio.sln",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "tarefa-CalculadoraTestes",
+      "appliesTo": "CalculadoraTestes/CalculadoraTestes.csproj",
+      "type": "msbuild"
+    }
+  ]
+}
